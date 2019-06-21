@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(404): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(432): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(435): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(448): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(451): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-convexpolygonsphere-mastervs2019\convexpolygonsphere\main.cpp(592): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConvexPolygonSphere.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6 secondHalf\physics-convexPolygonSphere-masterVS2019\ConvexPolygonSphere\Debug\ConvexPolygonSphere.exe
